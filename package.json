@@ -1,0 +1,19 @@
+{
+  "name": "newmiddleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Preetam Singh",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "middleware": "^1.0.0",
+    "node": "^22.6.0",
+    "nodemon": "^3.1.4"
+  }
+}
